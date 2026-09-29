@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 1250px;     /* Set width to 300 pixels */
+  height: auto;     /* Automatically adjusts height to prevent distortion */
+  margin-left: auto;     /* Pushes from the left */
+  margin-right: auto;    /* Pushes from the right */
+}
+
+
