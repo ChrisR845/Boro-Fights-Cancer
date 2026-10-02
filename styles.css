@@ -19,7 +19,7 @@ padding: 10px 5px;
 }
 
 .navbar .nav-link:hover {
-  background-image: linear-gradient(to right, #ff71d5, rgb(192, 83, 255));
+  background-image: linear-gradient(to right, #ff96df, rgb(192, 83, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
